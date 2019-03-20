@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  PopoverViewController.h
 //  36UIPopoverControllerHW
 //
 //  Created by Eduard Galchenko on 3/17/19.
@@ -8,8 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+NS_ASSUME_NONNULL_BEGIN
 
+@interface PopoverViewController : UIViewController
 
 @end
 
+NS_ASSUME_NONNULL_END
